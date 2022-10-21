@@ -1,4 +1,3 @@
-from turtle import update
 import numpy as np
 import lines as l
 import matplotlib.pyplot as plt
